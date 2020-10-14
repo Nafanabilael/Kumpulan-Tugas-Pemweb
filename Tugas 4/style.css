@@ -1,0 +1,191 @@
+
+a{
+	text-decoration: none;
+	
+}
+.button a{
+	color: #e5e5e5;
+}
+.body{
+	background-color: white;
+}
+
+/*==============================bagian tulisan==============================*/
+.logo{
+	padding: 0px 20px;
+	color: #BA55D3;
+	 font-size: 26px;
+}
+.title {
+	max-width: 800px;
+	padding: 0px 25px;
+	font-size: 32px;
+	text-align: center;
+    color: white;
+    font-family: "Roboto Slab","Times New Roman",serif;
+}
+
+
+.description {
+	text-align: center;
+	padding: 40px;
+    margin: 1.071rem auto 0;
+    color: white;
+    max-width: 800px;
+    font-weight: 300;
+}
+
+.button{
+    margin: .3125rem 1px;
+    line-height: 1.428571;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+
+}
+
+/*==============================bagian header==============================*/
+.grid_6{
+	word-spacing: 80px;
+}
+
+.header{
+position: fixed;
+background-color: white;
+border-radius: 3px;
+box-shadow: 0 12px 24px 2px rgba(0,0,0,.14), 0 6px 30px 5px rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+height: 40px;
+top: 0;
+
+
+}
+
+
+
+/*==============================bagian sampul==============================*/
+.sampul{
+	background: url(bg.png);
+	height:300px;
+
+}
+.bgtrans{
+	background-color:rgba(0,0,0,0.8);
+	height:300px;
+
+}
+
+.sampul img{
+	width: 25%;
+	padding: 40px 40px;
+	float:left;
+}
+
+
+/*==============================bagian content==============================*/
+.content{
+	background-color: white;
+	height: 1100px;
+}
+
+/*bagian educations*/
+.educations{
+	padding: 20px;
+	background: url(bg2.jpeg);
+	background-size: 50%;
+	height: 300px;
+	font-size: 32px;
+
+}
+.bgedu{
+	background-color: white;
+	height: 300px;
+	width: 50%;
+	padding: 10px 10px;
+}
+
+.riwayat{
+	padding: 0px 40px;
+	font-size: 22px;
+
+}
+
+.kosong{
+	background-color: black;
+	height: 5px;
+}
+/*bagian skills*/
+.skills{
+	background-size: 50%;
+	height: 300px;
+
+}
+
+.jdl{
+	font-size: 32px;
+}
+
+.skills img{
+	width: 35%;
+	padding: 5px 0px;
+	float:left;
+}
+.skillbg{
+	background-color: white;
+	height: 300px;
+}
+.skill-bar{
+   text-align: left;
+   padding: 10px;
+   font-size: 12px;
+  }
+  .skill{
+   color: #fff;
+   font-size: 12px;
+   text-align: center;
+   border-radius: 10px;
+  }
+
+  .html{width: 90%;background-color: #22eb72}
+  .css{width: 85%;background-color: #1E80FA}
+  .js{width: 70%;background-color: #DBE223}
+  .php{width: 60%;background-color: #E93232}
+ 
+
+
+.gallery{
+	background: url(bg4.png);
+	text-align: center;
+	height: 420px;
+}
+.gallery img{
+	 width: 15%;
+     border: 4px solid black;
+     background-color:rgba(225,225,225,1);
+     padding: 10px;
+     margin: 20px;
+}
+
+.bgtransgl{
+	background-color:rgba(225,225,225,0.6);
+	height:420px;
+}
+.jdlgall{
+	padding: 20px;
+	font-size: 32px;
+}
+
+
+/*==============================bagian footer==============================*/
+.footer{
+
+	bottom: 0px;
+	height: 250px;
+	background-color: black;
+	color: white;
+}
+.jdl2{
+	padding: 30px 30px;
+}
+.keterangan{
+	padding: 0px 30px;
+}
